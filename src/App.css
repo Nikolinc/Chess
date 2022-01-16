@@ -4,4 +4,10 @@
     place-content: center;
     height: 100vh;
     background-color: #202020;
+    
+} 
+body{
+    box-sizing: border-box;
+    margin: 0%;
+    overflow: hidden;
 }
